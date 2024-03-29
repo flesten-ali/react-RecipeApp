@@ -1,0 +1,37 @@
+.recipeCard {
+  margin: 20px auto;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.5);
+  border-radius: 5px;
+}
+.content {
+  text-align: center;
+}
+.content h1 {
+  color: var(--header-color);
+}
+.recipeImage {
+  max-width: 100%;
+}
+.info {
+  color: var(--orange-color);
+  font-weight: bolder;
+  font-size: 20px;
+}
+.instructions h3 {
+  color: black;
+  padding: 10px;
+  margin: 20px;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.instructions {
+  color: #777;
+  text-align: left;
+  padding: 10px;
+  margin-top: 20px;
+}
+.instructions li {
+  padding: 10px;
+}

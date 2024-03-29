@@ -1,0 +1,11 @@
+:root {
+  --header-color: #2c7865;
+  --orange-color: #ff9800;
+  --green-color: #90d26d;
+  --light-color: #d9edbf;
+}
+body {
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+  box-sizing: border-box;
+}
